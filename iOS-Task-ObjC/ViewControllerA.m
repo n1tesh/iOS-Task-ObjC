@@ -6,13 +6,13 @@
 //  Copyright © 2016 n1tesh. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "ViewControllerA.h"
 
-@interface ViewController ()
+@interface ViewControllerA ()
 
 @end
 
-@implementation ViewController
+@implementation ViewControllerA
 
 - (void)viewDidLoad {
     [super viewDidLoad];

@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewControllerB.h
 //  iOS-Task-ObjC
 //
 //  Created by Nitesh I on 12/12/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewControllerB : UIViewController
 
 @end
-
